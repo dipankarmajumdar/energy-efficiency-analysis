@@ -4,6 +4,8 @@ This project analyzes building energy efficiency and predicts **Heating Load** a
 
 ---
 
+![Template Image](image/energy_efficiency.png)
+
 ## Features ✨
 
 - **Exploratory Data Analysis (EDA)**: Visualize and understand the dataset.
